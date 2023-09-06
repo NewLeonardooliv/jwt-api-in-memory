@@ -25,5 +25,4 @@ Para executar este aplicativo em sua máquina, siga estas etapas:
 
 Para autenticar, faça uma solicitação POST para /login com as credenciais do usuário.
 Após a autenticação bem-sucedida, você receberá um token JWT.
-Use o token JWT para acessar a rota protegida em /protected.
-Exemplo de solicitação de autenticação:
+Use o token JWT para acessar a rota protegida.
