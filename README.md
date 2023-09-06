@@ -1,4 +1,4 @@
-# JWT Route in Memory
+# JWT Route in Memory - Atividade Faculdade
 
 ## Descrição
 Este é um aplicativo simples desenvolvido como parte de exercícios práticos. O objetivo principal é criar um aplicativo Express.js que demonstre a autenticação usando tokens JWT (JSON Web Tokens) e a capacidade de registrar novos usuários de forma segura.
